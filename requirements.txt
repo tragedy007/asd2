@@ -1,0 +1,13 @@
+streamlit
+pandas==2.2.2
+protobuf==3.20.*
+tornado>=6.3.0
+cython
+plotly
+streamlit_option_menu
+streamlit_lottie
+matplotlib>=3.6.0
+seaborn==0.11.1
+numpy
+Pillow
+scikit-learn
